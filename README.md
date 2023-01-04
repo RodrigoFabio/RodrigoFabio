@@ -1,7 +1,7 @@
 
 <h2>Olá, eu sou o Rodrigo Fábio !!</h2>
 <div>
-  <a href="[rodrigo.amorim452@gmail.com](https://onlinecurriculo.com.br/r/Hv7XKlIKp)" target="blank"><img src="https://img.shields.io/badge/Meu curriculo-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="https://onlinecurriculo.com.br/r/Hv7XKlIKp" target="blank"><img src="https://img.shields.io/badge/Meu curriculo-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-f%C3%A1bio-00a6b11a9" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
