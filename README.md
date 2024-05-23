@@ -6,7 +6,7 @@
 </div>
 
 <h2>👨‍💻Sobre mim</h2>
-  Prazer, Rodrigo, tenho 21 anos e atualmente curso Sistemas de Informação na UFMT. Aprender novas tecnologias e poder contribuir na resolução de problemas são motivos pelos quais
+  Prazer, Rodrigo, tenho 22 anos e atualmente curso Sistemas de Informação na UFMT. Aprender novas tecnologias e poder contribuir na resolução de problemas são motivos pelos quais
 busco sempre estudar. Sou entusiasta do Desenvolvimento de Softwares e atualmente me encontro aprendendo o ramo do Desenvolvimento WEB.
 
 ##
