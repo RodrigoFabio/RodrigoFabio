@@ -5,7 +5,7 @@
 </div>
 
 <h2>About me</h2>
-  Prazer, Rodrigo, tenho 22 anos e atualmente curso Sistemas de Informação na UFMT. Sou um entusiasta das áreas de desenvolvimento de software, inteligência artificial e data science. Gosto de utilizar a tecnologia para pensar em soluções pro mundo real, buscando estar sempre em constante evolução.
+  Prazer, Rodrigo, tenho 23 anos e atualmente curso Sistemas de Informação na UFMT. Sou um entusiasta das áreas de desenvolvimento de software, inteligência artificial e data science. Gosto de utilizar a tecnologia para pensar em soluções pro mundo real, buscando estar sempre em constante evolução.
   <br><br>
   email para contato: <a href="rodrigo.amorim452@gmail.com">rodrigo.amorim452@gmail.com</a>
 
